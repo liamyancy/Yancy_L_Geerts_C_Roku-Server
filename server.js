@@ -6,7 +6,7 @@ const port = process.env.PORT || 5050;
 
 const app = express();
 
-app.use(cookieParser());
+app.use(cookieParser('random'));
 
 app.use(session({
     
