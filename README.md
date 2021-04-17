@@ -20,8 +20,8 @@ for both files.
 4. Go to "localhost:5000" in your browser.
 
 ## Credits
-Carter Geerts
-Liam Yancy
+Carter Geerts<br>
+Liam Yancy<br>
 [2021]
 
 ## License
