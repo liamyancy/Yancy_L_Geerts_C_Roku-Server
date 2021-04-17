@@ -3,8 +3,8 @@
 A movie streaming application like netflix<br>
 for parents and kids to enjoy.
 
-Client Repo(https://github.com/liamyancy/Yancy_L_Geerts_C_Roku-Client)
-Server Repo(https://github.com/liamyancy/Yancy_L_Geerts_C_Roku-Server)
+[Client Repo](https://github.com/liamyancy/Yancy_L_Geerts_C_Roku-Client)
+[Server Repo](https://github.com/liamyancy/Yancy_L_Geerts_C_Roku-Server)
 
 ## Prerequisites
 Any text editor & git.
